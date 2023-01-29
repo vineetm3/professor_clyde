@@ -1,0 +1,2 @@
+# professor_clyde
+A Discord bot that reads messages in real-time and suggests answers based on previous chat history. Aim is to incorporate into academic servers where questions are constantly repeated. 
